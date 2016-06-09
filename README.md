@@ -1,4 +1,4 @@
-# Contains very useful Sharepoint article for beginer as well as expert.
+# Contains very useful sharepoint article for beginer as well as expert.
 
 SSA
 
@@ -86,3 +86,6 @@ http://www.c-sharpcorner.com/UploadFile/cb1429/learn-C-Sharp-in-7-days-day-1/
 
 Display Pivot Chart And Table From Excel Document In SharePoint
 http://www.c-sharpcorner.com/article/display-pivot-chart-and-table-from-excel-document-in-sharepo/
+
+# Contribution
+Samir Khimani
