@@ -1,4 +1,4 @@
-# Sharepoint-Worth-Reading-Links
+# Contains very useful Sharepoint article for beginer as well as expert.
 
 SSA
 
